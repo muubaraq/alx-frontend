@@ -1,12 +1,10 @@
-# alx-frontend
-- Semantic HTML: Using semantic HTML tags, such as header, footer, and article, can help to make your HTML more readable and meaningful to both humans and machines.
+- With frontend skills, you can design and develop the user interface of websites and web applications. This includes the layout, visual design, and content of a website or application as it is seen and interacted with by the user in their web browser.
 
-- Custom data attributes: You can use custom data attributes to store extra information about an element that may be useful in your scripts, but is not relevant to the content of the page.
+Some specific tasks that you might perform with frontend skills include:
 
-- Responsive design: Using techniques such as media queries and flexible grid layouts can help you to create websites that look good and function well on a wide range of devices.
-
-- Animations and transitions: You can use CSS transitions and animations to add dynamic effects to your web pages.
-
-- Accessibility: Making your websites accessible to users with disabilities can involve using techniques such as proper HTML markup, alt text for images, and descriptive link text.
-
-- Optimization: There are a number of ways to optimize your HTML, CSS, and JavaScript code in order to improve the performance of your website.
+- Creating the HTML structure and content of a website or application
+Styling the interface with CSS to control layout, typography, and visual design
+- Adding interactivity and functionality to a website or application with JavaScript and libraries such as jQuery
+- Optimizing the performance and usability of a website or application for different devices and browsers
+- Working with designers and backend developers to implement the frontend of a website or application
+Maintaining and updating existing websites and applications.
